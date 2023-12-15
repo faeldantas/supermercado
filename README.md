@@ -1,2 +1,3 @@
 # supermercado
-## Codigo base para um sistema de supermercado implementando os Padeões MVC e Oserver.
+## Codigo base para um sistema de supermercado implementando os Padrões MVC e Oserver.
+
